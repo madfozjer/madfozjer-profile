@@ -1,0 +1,31 @@
+{
+  "header": {
+    "name": "dima carewski",
+    "hobbies": "webdev && gamedesign"
+  },
+  "contact": {
+    "header": "contact me: ",
+    "email": "email: ",
+    "twitter": "twitter (x): ",
+    "github": "github: ",
+    "cv": "downloand cv"
+  },
+  "projects": {
+    "header": "PR0JECTS: "
+  },
+  "bio": {
+    "header": "BI0: ",
+    "line1": "> High school student, residing in Poland, and studying in technical school.",
+    "line2": "> Prototyping, designing and learning to create web applications using JavaScript ecosystem.",
+    "line3": "> Video games is an art form and looking forward to work more with them.",
+    "line4": "> Open to a lot of projects, especially art experiences.",
+    "line5": "> In free time playing games, watching good ol' american movies and just being a little goofy scoobert.",
+    "line6": "> From Ukraine, two times emmigrated due to war. Love my city, love my people <3"
+  },
+  "projects": {
+    "header": "PR0JECTS: ",
+    "golden-ball": "API-based programm that tries predict next France Football Ballon D'or award using basic statistics. Currently running non-profit.",
+    "ecommerce": "Open-source template for ecommerce with mockup delivery service and full PayPal integration. Currently is non-profit and looking for some testers :)",
+    "webgames": "I created two demos of idle/clicker/management games using different web technologies to test some ideas and you can find them on my github. I think they are really bad, but it was fun doing them."
+  }
+}

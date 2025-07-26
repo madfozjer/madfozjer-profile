@@ -1,0 +1,31 @@
+{
+  "header": {
+    "name": "dima carewski",
+    "hobbies": "webdev && gamedesign"
+  },
+  "contact": {
+    "header": "kontakt: ",
+    "email": "email: ",
+    "twitter": "twitter (x): ",
+    "github": "github: ",
+    "cv": "pobierz cv"
+  },
+  "projects": {
+    "header": "PROJEKTY: "
+  },
+  "bio": {
+    "header": "BI0: ",
+    "line1": "> Uczeń technikum z Polski.",
+    "line2": "> Tworzę prototypy, projektuję i uczę się tworzyć aplikacje webowe w ekosystemie JavaScript.",
+    "line3": "> Gry wideo to forma sztuki i nie mogę się doczekać, aby więcej z nimi pracować.",
+    "line4": "> Jestem otwarty na wiele projektów, zwłaszcza te związane z doświadczeniami artystycznymi.",
+    "line5": "> W wolnym czasie gram w gry, oglądam stare, dobre amerykańskie filmy i po prostu jestem trochę szalonym Scoobertem.",
+    "line6": "> Pochodzę z Ukrainy, dwukrotnie emigrowałem z powodu wojny. Kocham moje miasto, kocham moich ludzi <3"
+  },
+  "projects": {
+    "header": "PR0JEKTY: ",
+    "golden-ball": "Program oparty na API, który próbuje przewidzieć kolejną nagrodę France Football Ballon D'or, wykorzystując podstawowe statystyki. Obecnie działa jako non-profit.",
+    "ecommerce": "Szablon open-source dla e-commerce z makietą usługi dostawy i pełną integracją PayPal. Obecnie jest to projekt non-profit i szukam testerów :)",
+    "webgames": "Stworzyłem dwa dema gier typu idle/clicker/management, używając różnych technologii webowych, aby przetestować pewne pomysły. Możesz je znaleźć na moim GitHubie. Myślę, że są naprawdę kiepskie, ale dobrze się przy nich bawiłem."
+  }
+}
