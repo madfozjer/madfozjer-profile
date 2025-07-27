@@ -35,6 +35,13 @@ const projects = [
     tech: ['Vue', 'HTML', 'CSS', 'TailwindCSS'],
     imageUrl: '',
   },
+  {
+    i: 3,
+    name: 'DocMagic',
+    text: 'projects.docmagic',
+    tech: ['check out their github: https://github.com/Muneerali199/DocMagic'],
+    imageUrl: '',
+  },
 ];
 
 const changeLanguage = (lang) => {

@@ -10,9 +10,6 @@
     "github": "github: ",
     "cv": "pobierz cv"
   },
-  "projects": {
-    "header": "PROJEKTY: "
-  },
   "bio": {
     "header": "BI0: ",
     "line1": "> Uczeń technikum z Polski.",
@@ -26,6 +23,7 @@
     "header": "PR0JEKTY: ",
     "golden-ball": "Program oparty na API, który próbuje przewidzieć kolejną nagrodę France Football Ballon D'or, wykorzystując podstawowe statystyki. Obecnie działa jako non-profit.",
     "ecommerce": "Szablon open-source dla e-commerce z makietą usługi dostawy i pełną integracją PayPal. Obecnie jest to projekt non-profit i szukam testerów :)",
-    "webgames": "Stworzyłem dwa dema gier typu idle/clicker/management, używając różnych technologii webowych, aby przetestować pewne pomysły. Możesz je znaleźć na moim GitHubie. Myślę, że są naprawdę kiepskie, ale dobrze się przy nich bawiłem."
+    "webgames": "Stworzyłem dwa dema gier typu idle/clicker/management, używając różnych technologii webowych, aby przetestować pewne pomysły. Możesz je znaleźć na moim GitHubie. Myślę, że są naprawdę kiepskie, ale dobrze się przy nich bawiłem.",
+    "docmagic": "Generator dokumentów oparty na sztucznej inteligencji, w którym brałem udział w utrzymaniu i czyszczeniu repozytorium. Nigdy więcej, AI slop :)"
   }
 }
