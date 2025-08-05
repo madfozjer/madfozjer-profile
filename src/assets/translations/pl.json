@@ -24,6 +24,7 @@
     "golden-ball": "Program oparty na API, który próbuje przewidzieć kolejną nagrodę France Football Ballon D'or, wykorzystując podstawowe statystyki. Obecnie działa jako non-profit.",
     "ecommerce": "Szablon open-source dla e-commerce z makietą usługi dostawy i pełną integracją PayPal. Obecnie jest to projekt non-profit i szukam testerów :)",
     "webgames": "Stworzyłem dwa dema gier typu idle/clicker/management, używając różnych technologii webowych, aby przetestować pewne pomysły. Możesz je znaleźć na moim GitHubie. Myślę, że są naprawdę kiepskie, ale dobrze się przy nich bawiłem.",
-    "docmagic": "Generator dokumentów oparty na sztucznej inteligencji, w którym brałem udział w utrzymaniu i czyszczeniu repozytorium, trochę pomogłem z layoutem. Nigdy więcej, AI slop :)"
+    "docmagic": "Generator dokumentów oparty na sztucznej inteligencji, w którym brałem udział w utrzymaniu i czyszczeniu repozytorium, trochę pomogłem z layoutem. Nigdy więcej, AI slop :)",
+    "skillicons-tooltip": "Mała rozszerzenie open-source do syvixor/skills-icons, które automatycznie wyświetla podpowiedź z opisem po najechaniu na nią. Na razie tylko Vue, ale planuję rozszerzyć."
   }
 }

@@ -1,6 +1,7 @@
 <script setup>
 import Technology from '@/components/Technology.vue';
 import Project from '@/components/Project.vue';
+import { Icon } from 'skillicons-tooltip';
 import { onMounted } from 'vue';
 import { useI18n } from 'vue-i18n'; // Only for Vue 3 Composition API
 
@@ -231,6 +232,14 @@ const changeLanguage = (lang) => {
               <span>{{ $t('bio.line4') }}</span>
               <span>{{ $t('bio.line5') }}</span>
               <span>{{ $t('bio.line6') }} </span>
+              <span class="flex justify-center gap-2"
+                ><Icon skill="aseprite" position="top-left"></Icon>
+                <Icon skill="autocad" position="top-right"></Icon>
+                <Icon skill="babel" position="bottom-left"></Icon>
+                <Icon skill="chakraui" position="bottom-right"></Icon>
+                <Icon skill="brave" position="top"></Icon>
+                <Icon skill="chartjs" position="bottom"></Icon>
+              </span>
             </div>
           </div>
         </div>
