@@ -45,7 +45,7 @@ console.log(props.project.imageUrl);
   <img
     :src="props.project.imageUrl"
     :alt="`Image for ${props.project.name}`"
-    class="mb-4 h-52 w-80 rounded-2xl border-gray-300 bg-gray-200 object-cover"
+    class="mb-4 h-52 w-80 rounded-2xl border-gray-300 bg-gray-200 object-cover opacity-55 shadow-2xl"
     @error="handleImageError"
   />
 

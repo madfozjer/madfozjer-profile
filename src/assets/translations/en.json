@@ -22,9 +22,9 @@
   "projects": {
     "header": "PR0JECTS: ",
     "golden-ball": "API-based programm that tries predict next France Football Ballon D'or award using basic statistics. Currently running non-profit.",
-    "ecommerce": "Open-source template for ecommerce with mockup delivery service and full PayPal integration. Currently is non-profit and looking for some testers :)",
     "webgames": "I created two demos of idle/clicker/management games using different web technologies to test some ideas and you can find them on my github. I think they are really bad, but it was fun doing them.",
     "docmagic": "Open-source AI-based documents generator, contributed in maintaing and cleaning up repository and some layout fixes. Never again, AI slop...",
-    "skillicons-tooltip": "A little open-source extension to syvixor/skills-icons that automatically displays tooltip with description if you hover over it. Only Vue for now, but looking to extend."
+    "skillicons-tooltip": "A little open-source extension to syvixor/skills-icons that automatically displays tooltip with description if you hover over it. Only Vue and React for now, but looking to extend.",
+    "ecommerce": "Open-source template for ecommerce with mockup delivery service and full PayPal integration. Currently is non-profit and looking for some testers :)"
   }
 }
