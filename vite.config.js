@@ -15,5 +15,4 @@ export default defineConfig({
     },
   },
   publicDir: 'public',
-  base: '/ madfozjer-profile',
 });
