@@ -20,7 +20,6 @@ const openModal = () => {
     isOpen.value = true;
     isModalOpenedByHover.value = true; // Mark that it was opened by hover
     hoverTimeout.value = null; // Clear the timeout ID once it fires
-    console.log('Modal opened after 1s hover: ' + isOpen.value);
   }, 300); // in ms, change if needed
 };
 
@@ -28,17 +27,13 @@ const cancelOpenModal = () => {
   if (hoverTimeout.value) {
     clearTimeout(hoverTimeout.value);
     hoverTimeout.value = null;
-    console.log('Hover timeout cancelled.');
   }
 };
 
 const closeModalFromModal = () => {
   isOpen.value = false;
   isModalOpenedByHover.value = false; // Reset the flag when the modal is closed
-  console.log('Modal closed by internal mechanism (button/escape/backdrop): ' + isOpen.value);
 };
-
-console.log(props.project.imageUrl);
 </script>
 
 <template>
